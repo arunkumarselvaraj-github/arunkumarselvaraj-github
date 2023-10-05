@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarselvaraj-github&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarselvaraj-github" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/arunkumar_twet" target="blank"><img src="https://img.shields.io/twitter/follow/arunkumar_twet?logo=twitter&style=for-the-badge" alt="arunkumar_twet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arunkumarselvaa" target="blank"><img src="https://img.shields.io/twitter/follow/arunkumar_twet?logo=twitter&style=for-the-badge" alt="arunkumarselvaa" /></a> </p>
 <header>
     <h1>Hi there! 👋</h1>
   </header>
