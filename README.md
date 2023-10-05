@@ -55,10 +55,11 @@ Let's connect and work on exciting projects together! 😊
   
 
   </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarselvaraj-github&show_icons=true&locale=en&layout=compact" alt="arunkumarselvaraj-github" /></p>
+  <hr>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarselvaraj-github&show_icons=true&locale=en&layout=compact" alt="arunkumarselvaraj-github" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumarselvaraj-github&show_icons=true&locale=en" alt="arunkumarselvaraj-github" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarselvaraj-github&" alt="arunkumarselvaraj-github" /></p>
-
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumarselvaraj-github&show_icons=true&locale=en" alt="arunkumarselvaraj-github" /></p>
+  <hr>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarselvaraj-github&" alt="arunkumarselvaraj-github" /></p>
+  
