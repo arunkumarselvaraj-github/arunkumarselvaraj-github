@@ -6,24 +6,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumarselvaraj-github" alt="arunkumarselvaraj-github" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arunkumar_twet" target="blank"><img src="https://img.shields.io/twitter/follow/arunkumar_twet?logo=twitter&style=for-the-badge" alt="arunkumar_twet" /></a> </p>
+## Hi there! 👋
 
-- 🔭 I’m currently working on **Projects from SpringFive**
+- 🔭 I’m currently working on projects at **SpringFive**.
+- 🌱 I’m currently learning **Apex, Salesforce, Visualforce Pages**.
+- 👯 I’m looking to collaborate on exciting **web projects**.
+- 🤝 I’m looking for help with my web projects.
+- 👨‍💻 You can check out my projects at [arunkumar-selvaraj.web.app](arunkumar-selvaraj.web.app).
+- 📝 I regularly write articles on [arunkumar-selvaraj.blogspot.com](arunkumar-selvaraj.blogspot.com).
+- 💬 Feel free to ask me about **Python, C, Java, HTML, CSS, JavaScript**.
+- 📫 You can reach me at **arunkumarhari22@gmail.com**.
+- 📄 Check out my experiences [here](https://drive.google.com/drive/folders/1J2s11UXhYZ5UWU3lpBx6v7hJyjReTwts?usp=sharing).
 
-- 🌱 I’m currently learning **Apex, Salesforce, Visualforec Pages**
-
-- 👯 I’m looking to collaborate on **Web Projects**
-
-- 🤝 I’m looking for help with **Web Projects**
-
-- 👨‍💻 All of my projects are available at [arunkumar-selvaraj.web.app](arunkumar-selvaraj.web.app)
-
-- 📝 I regularly write articles on [arunkumar-selvaraj.blogspot.com](arunkumar-selvaraj.blogspot.com)
-
-- 💬 Ask me about **Python, C, Java, HTML, CSS, Javascript**
-
-- 📫 How to reach me **arunkumarhari22@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1J2s11UXhYZ5UWU3lpBx6v7hJyjReTwts?usp=sharing](https://drive.google.com/drive/folders/1J2s11UXhYZ5UWU3lpBx6v7hJyjReTwts?usp=sharing)
+Let's connect and work on exciting projects together! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
