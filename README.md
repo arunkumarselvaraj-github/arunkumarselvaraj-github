@@ -6,20 +6,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumarselvaraj-github" alt="arunkumarselvaraj-github" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arunkumar_twet" target="blank"><img src="https://img.shields.io/twitter/follow/arunkumar_twet?logo=twitter&style=for-the-badge" alt="arunkumar_twet" /></a> </p>
-## Hi there! 👋
-
-- 🔭 I’m currently working on projects at **SpringFive**.
-- 🌱 I’m currently learning **Apex, Salesforce, Visualforce Pages**.
-- 👯 I’m looking to collaborate on exciting **web projects**.
-- 🤝 I’m looking for help with my web projects.
-- 👨‍💻 You can check out my projects at [arunkumar-selvaraj.web.app](arunkumar-selvaraj.web.app).
-- 📝 I regularly write articles on [arunkumar-selvaraj.blogspot.com](arunkumar-selvaraj.blogspot.com).
-- 💬 Feel free to ask me about **Python, C, Java, HTML, CSS, JavaScript**.
-- 📫 You can reach me at **arunkumarhari22@gmail.com**.
-- 📄 Check out my experiences [here](https://drive.google.com/drive/folders/1J2s11UXhYZ5UWU3lpBx6v7hJyjReTwts?usp=sharing).
-
-Let's connect and work on exciting projects together! 😊
-
+<header>
+    <h1>Hi there! 👋</h1>
+  </header>
+  <div class="container">
+    <ul>
+      <li>🔭 I’m currently working on projects at <strong>SpringFive</strong>.</li>
+      <li>🌱 I’m currently learning <strong>Apex, Salesforce, Visualforce Pages</strong>.</li>
+      <li>👯 I’m looking to collaborate on exciting <strong>web projects</strong>.</li>
+      <li>🤝 I’m looking for help with my web projects.</li>
+      <li>👨‍💻 You can check out my projects at <a href="https://arunkumar-selvaraj.web.app" target="_blank">arunkumar-selvaraj.web.app</a>.</li>
+      <li>📝 I regularly write articles on <a href="https://arunkumar-selvaraj.blogspot.com" target="_blank">arunkumar-selvaraj.blogspot.com</a>.</li>
+      <li>💬 Feel free to ask me about <strong>Python, C, Java, HTML, CSS, JavaScript</strong>.</li>
+      <li>📫 You can reach me at <strong>arunkumarhari22@gmail.com</strong>.</li>
+      <li>📄 Check out my experiences <a href="https://drive.google.com/drive/folders/1J2s11UXhYZ5UWU3lpBx6v7hJyjReTwts?usp=sharing" target="_blank">here</a>.</li>
+    </ul>
+    <p>Let's connect and work on exciting projects together! 😊</p>
+  </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunkumarselvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkumar_twet" height="30" width="40" /></a>
