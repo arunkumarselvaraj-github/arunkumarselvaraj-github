@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arunkumar_twet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkumar_twet" height="30" width="40" /></a>
+<a href="https://twitter.com/arunkumarselvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkumar_twet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arunkumar-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunkumar-engineer" height="30" width="40" /></a>
 <a href="https://fb.com/arunkumarselvaraj.facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunkumarselvaraj.facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/arunkumarselvaraj.insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunkumarselvaraj.insta" height="30" width="40" /></a>
