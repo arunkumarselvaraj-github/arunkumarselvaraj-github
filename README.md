@@ -56,18 +56,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
-    <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is.htm" target="_blank" rel="noreferrer">
-      <img src="https://developer.salesforce.com/docs/resource/images/salesforce-logo.svg" alt="apex" width="40" height="40"/>
-    </a>
+   
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
     </a>
-    <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
-      <img src="https://www.lightningdesignsystem.com/assets/images/avatar2.jpg" alt="lwc" width="40" height="40"/>
-    </a>
-    <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
-      <img src="https://www.salesforce.com/content/dam/web/en_us/www/images/marketing-cloud/Marketing-Cloud-logo.svg" alt="salesforce" width="40" height="40"/>
-    </a>
+
   </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarselvaraj-github&show_icons=true&locale=en&layout=compact" alt="arunkumarselvaraj-github" /></p>
